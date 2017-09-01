@@ -4,9 +4,20 @@ Awesome-TensorFlow-Chinese，TensorFlow 中文资源全集，官方网站，安�
 Inspired by https://github.com/jtoy/awesome-tensorflow
 
 ## 官方网站
-官网：https://www.tensorflow.org/
-中文：https://tensorflow.google.cn/
-GitHub:https://github.com/tensorflow
+
+* 官网：https://www.tensorflow.org/
+
+* 中文：https://tensorflow.google.cn/
+
+* GitHub:https://github.com/tensorflow
+
+## 安装教程
+
+* Mac:http://www.cnblogs.com/tensorflownews/p/7298646.html
+
+* Windows:https://tensorflow.google.cn/install/install_windows
+
+* Linux:https://tensorflow.google.cn/install/install_linux
 
 
 ## 教程
