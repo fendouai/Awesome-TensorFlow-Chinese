@@ -1,7 +1,10 @@
 # Awesome-TensorFlow-Chinese
-Awesome-TensorFlow-Chinese，TensorFlow 中文资源全集，官方网站，安装教程，入门教程，实战项目。
 
-Inspired by https://github.com/jtoy/awesome-tensorflow
+TensorFlow 中文资源全集，官方网站，安装教程，入门教程，实战项目。
+
+很多内容下面这个英文项目：
+
+> Inspired by https://github.com/jtoy/awesome-tensorflow
 
 ## 官方网站
 
@@ -13,19 +16,71 @@ Inspired by https://github.com/jtoy/awesome-tensorflow
 
 ## 安装教程
 
-* Mac:http://www.cnblogs.com/tensorflownews/p/7298646.html
+### 中文安装教程
+
+* Mac安装:http://www.cnblogs.com/tensorflownews/p/7298646.html
+
+* 极客学院教程:http://wiki.jikexueyuan.com/project/tensorflow-zh/get_started/os_setup.html
+
+### 官方安装教程（建议用官方教程，现在官网可以直接访问了。）
+
+* Mac:https://tensorflow.google.cn/install/install_mac
 
 * Windows:https://tensorflow.google.cn/install/install_windows
 
 * Linux:https://tensorflow.google.cn/install/install_linux
 
+## 入门教程
+
+### 官方入门教程
+
+* 开始学习:https://tensorflow.google.cn/get_started/
+
+* MNIST 针对初学者的字体识别:https://tensorflow.google.cn/get_started/mnist/beginners
+
+* MNIST 针对专业的深度字体识别:https://tensorflow.google.cn/get_started/mnist/pros
+
+### 入门教程
+
+* 极客学院:http://wiki.jikexueyuan.com/project/tensorflow-zh/
+
+* 大U的技术课堂:https://zhuanlan.zhihu.com/p/22410917
+
+* TensorFlowNews:https://zhuanlan.zhihu.com/TensorFlownews
+
+## 实战项目
+
+### 官方实战项目
+
+#### Models built with TensorFlow
+
+* models:https://github.com/tensorflow/models
+
+#### Magenta: Music and Art Generation with Machine Intelligence
+
+* magenta:https://github.com/tensorflow/magenta
+
+#### TensorFlow Neural Machine Translation Tutorial
+
+* nmt:https://github.com/tensorflow/nmt
+
+## 社区群组
+
+### QQ群
+522785813
+
+### 微信群
+
+有效期太短了，我博客保持更新。
+
+http://www.tensorflownews.com/
 
 ## 教程
 
-* [TensorFlow Tutorial 1](https://github.com/pkmital/tensorflow_tutorials) - From the basics to slightly more interesting applications of TensorFlow
-* [TensorFlow Tutorial 2](https://github.com/nlintz/TensorFlow-Tutorials) - Introduction to deep learning based on Google's TensorFlow framework. These tutorials are direct ports of Newmu's Theano
-* [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow tutorials and code examples for beginners
-* [Sungjoon's TensorFlow-101](https://github.com/sjchoi86/Tensorflow-101) - TensorFlow tutorials written in Python with Jupyter Notebook
+* [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples) - 针对初学者的 TensorFlow 教程和代码
+* [TensorFlow Tutorial](https://github.com/pkmital/tensorflow_tutorials) - 从基础知识到有趣的 tensorflow 应用
+* [TensorFlow Tutorial](https://github.com/nlintz/TensorFlow-Tutorials) - 基于谷歌的 TensorFlow 框架介绍深度学习
+* [Sungjoon's TensorFlow-101](https://github.com/sjchoi86/Tensorflow-101) - TensorFlow 教程用 Python 的 Jupyter Notebook
 * [Terry Um’s TensorFlow Exercises](https://github.com/terryum/TensorFlow_Exercises) - Re-create the codes from other TensorFlow examples
 * [Installing TensorFlow on Raspberry Pi 3](https://github.com/samjabrahams/tensorflow-on-raspberry-pi) - TensorFlow compiled and running properly on the Raspberry Pi
 * [Classification on time series](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition) - Recurrent Neural Network classification in TensorFlow with LSTM on cellphone sensor data
