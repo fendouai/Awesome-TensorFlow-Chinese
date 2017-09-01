@@ -1,8 +1,13 @@
 # Awesome-TensorFlow-Chinese
 
-TensorFlow 中文资源全集，官方网站，安装教程，入门教程，实战项目。
+TensorFlow 中文资源全集，学习路径推荐：
 
-很多内容下面这个英文项目：
+*  官方网站，初步了解。
+*  安装教程，安装之后跑起来。
+*  入门教程，简单的模型学习和运行。
+*  实战项目，根据自己的需求进行开发。
+
+很多内容下面这个英文项目:
 
 > Inspired by https://github.com/jtoy/awesome-tensorflow
 
@@ -64,6 +69,13 @@ TensorFlow 中文资源全集，官方网站，安装教程，入门教程，实
 
 * nmt:https://github.com/tensorflow/nmt
 
+## 书籍（推荐）
+Deep Learning
+http://www.tensorflownews.com/2017/08/29/deep-learning-an-mit-press-book
+
+Deep Learning 中文翻译
+http://www.tensorflownews.com/2017/08/29/deep-learning-book-chinese-translation/
+
 ## 社区群组
 
 ### QQ群
@@ -71,9 +83,31 @@ TensorFlow 中文资源全集，官方网站，安装教程，入门教程，实
 
 ### 微信群
 
-有效期太短了，我博客保持更新。
+微信群二维码有效期太短了，我博客保持更新。
 
 http://www.tensorflownews.com/
+
+## 我系统的学习了两个月之后做的几个项目。
+
+* TensorFlow 卷积神经网络 Model Project:
+
+FaceRank - Rank Face by CNN Model based on TensorFlow (add keras version). FaceRank-人脸打分基于 TensorFlow (新增 Keras 版本) 的 CNN 模型（可能是最有趣的 TensorFlow 中文入门实战项目）
+
+[https://github.com/fendouai/FaceRank](https://github.com/fendouai/FaceRank)
+
+* TensorFlow 循环神经网络 Model Project:
+
+一个比特币交易机器人基于 Tensorflow LSTM 模型，仅供娱乐。 A Bitcoin trade robot based on Tensorflow LSTM model.Just for fun.
+
+[https://github.com/TensorFlowNews/TensorFlow-Bitcoin-Robot](https://github.com/TensorFlowNews/TensorFlow-Bitcoin-Robot)
+
+* TensorFlow Seq2Seq Model Project:
+
+ChatGirl is an AI ChatBot based on TensorFlow Seq2Seq Model.ChatGirl 一个基于 TensorFlow Seq2Seq 模型的聊天机器人。（包含预处理过的 twitter 英文数据集，训练，运行，工具代码，可以运行但是效果有待提高。）
+
+[https://github.com/fendouai/ChatGirl](https://github.com/fendouai/ChatGirl)
+
+
 
 ## 教程
 
