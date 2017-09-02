@@ -13,9 +13,9 @@ TensorFlow 中文资源全集，学习路径推荐：
 
 ## 官方网站
 
-* 官网：https://www.tensorflow.org/
+* 官网:https://www.tensorflow.org/
 
-* 中文：https://tensorflow.google.cn/
+* 中文:https://tensorflow.google.cn/
 
 * GitHub:https://github.com/tensorflow
 
@@ -24,6 +24,8 @@ TensorFlow 中文资源全集，学习路径推荐：
 ### 中文安装教程
 
 * Mac安装:http://www.cnblogs.com/tensorflownews/p/7298646.html
+
+* ubuntu 16.04 安装 tensorflow-gpu:http://www.tensorflownews.com/2017/09/02/tensorflow-gpu-install-ubuntu-16-04/
 
 * 极客学院教程:http://wiki.jikexueyuan.com/project/tensorflow-zh/get_started/os_setup.html
 
