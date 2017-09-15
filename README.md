@@ -7,7 +7,7 @@ TensorFlow 中文资源全集，学习路径推荐：
 *  入门教程，简单的模型学习和运行。
 *  实战项目，根据自己的需求进行开发。
 
-很多内容下面这个英文项目:
+很多内容参考下面这个英文项目，收集了中文资源:
 
 > Inspired by https://github.com/jtoy/awesome-tensorflow
 
@@ -49,11 +49,13 @@ TensorFlow 中文资源全集，学习路径推荐：
 
 ### 入门教程
 
-* 极客学院:http://wiki.jikexueyuan.com/project/tensorflow-zh/
+* 极客学院（中文官方文档）:http://wiki.jikexueyuan.com/project/tensorflow-zh/
 
-* 大U的技术课堂:https://zhuanlan.zhihu.com/p/22410917
+* w3cschool（中文官方文档）:https://www.w3cschool.cn/tensorflow_python/
 
-* TensorFlowNews:https://zhuanlan.zhihu.com/TensorFlownews
+* TensorFlowNews（中文项目实战）:https://zhuanlan.zhihu.com/TensorFlownews
+
+* 莫烦Python（中文视频教程）:http://i.youku.com/pythontutorial
 
 ## 实战项目
 
