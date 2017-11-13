@@ -7,6 +7,10 @@ TensorFlow 中文资源全集，学习路径推荐：
 *  入门教程，简单的模型学习和运行。
 *  实战项目，根据自己的需求进行开发。
 
+如果有问题，欢迎在这里提问(注册邀请码在 QQ 群：522785813)：
+
+http://www.tensorflow123.com/
+
 很多内容参考下面这个英文项目，收集了中文资源:
 
 > Inspired by https://github.com/jtoy/awesome-tensorflow
