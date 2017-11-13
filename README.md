@@ -8,6 +8,7 @@ TensorFlow 中文资源全集，学习路径推荐：
 *  实战项目，根据自己的需求进行开发。
 
 如果有问题，欢迎在这里提问(注册邀请码在 QQ 群：522785813)：
+
 TensorFlow 中文社区
 
 http://www.tensorflow123.com/
