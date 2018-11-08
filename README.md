@@ -95,7 +95,7 @@ http://www.tensorflownews.com/2017/08/29/deep-learning-book-chinese-translation/
 
 微信群二维码有效期太短了，我博客保持更新。
 
-http://www.tensorflownews.com/
+http://panchuang.net/
 
 ## 我系统的学习了两个月之后做的几个项目。
 
