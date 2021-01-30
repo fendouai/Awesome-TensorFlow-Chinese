@@ -97,25 +97,6 @@ http://www.tensorflownews.com/2017/08/29/deep-learning-book-chinese-translation/
 
 http://panchuang.net/
 
-## 我系统的学习了两个月之后做的几个项目。
-
-###  TensorFlow 卷积神经网络 Model Project:
-
-FaceRank - Rank Face by CNN Model based on TensorFlow (add keras version). FaceRank-人脸打分基于 TensorFlow (新增 Keras 版本) 的 CNN 模型（可能是最有趣的 TensorFlow 中文入门实战项目）
-
-[https://github.com/fendouai/FaceRank](https://github.com/fendouai/FaceRank)
-
-###  TensorFlow 循环神经网络 Model Project:
-
-一个比特币交易机器人基于 Tensorflow LSTM 模型，仅供娱乐。 A Bitcoin trade robot based on Tensorflow LSTM model.Just for fun.
-
-[https://github.com/TensorFlowNews/TensorFlow-Bitcoin-Robot](https://github.com/TensorFlowNews/TensorFlow-Bitcoin-Robot)
-
-###  TensorFlow Seq2Seq Model Project:
-
-ChatGirl is an AI ChatBot based on TensorFlow Seq2Seq Model.ChatGirl 一个基于 TensorFlow Seq2Seq 模型的聊天机器人。（包含预处理过的 twitter 英文数据集，训练，运行，工具代码，可以运行但是效果有待提高。）
-
-[https://github.com/fendouai/ChatGirl](https://github.com/fendouai/ChatGirl)
 
 
 
